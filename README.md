@@ -4,6 +4,9 @@ Practice code based on the video [Build a RESTful API in 5 Minutes with
 NodeJS](https://www.youtube.com/watch?v=MMOIr_VwwAk)
 by [Matt Hoiland](https://www.linkedin.com/in/matthoiland)
 
+Note: [Updated video](https://www.youtube.com/watch?v=p-x6WdwaJco) for Express
+v4 and some modern Node.js development practices.
+
 ## Usage
 
 Run server in one terminal.

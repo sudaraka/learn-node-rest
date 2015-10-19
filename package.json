@@ -1,0 +1,27 @@
+{
+  "name": "learn-node-rest",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Quick RESTful API service using Node.js",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudaraka/learn-node-rest.git"
+  },
+  "keywords": [
+    "node",
+    "rest"
+  ],
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka-org> (http://sudaraka-org/)",
+  "bugs": {
+    "url": "https://github.com/sudaraka/learn-node-rest/issues"
+  },
+  "homepage": "https://github.com/sudaraka/learn-node-rest#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.11",
+    "node-restful": "^0.2.2"
+  }
+}
